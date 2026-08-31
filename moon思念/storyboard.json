@@ -1,0 +1,10 @@
+[
+  {"title": true,  "text": "月光下的思念", "image_prompt": "a luminous full moon hanging low over a tranquil Chinese courtyard, osmanthus trees in bloom, warm golden lanterns, serene night atmosphere, 16:9"},
+  {"title": false, "text": "又是一年中秋，城市的霓虹灯很亮，却照不进心里那片柔软的地方", "image_prompt": "a modern Chinese city skyline at night, neon lights reflecting on wet streets, a lone figure standing by a window looking at the moon, melancholic atmosphere, 16:9"},
+  {"title": false, "text": "小时候，中秋是奶奶做的月饼，是院子里那棵老桂花树，是月光下一家人围坐的笑声", "image_prompt": "a warm nostalgic Chinese courtyard scene, an elderly grandmother making mooncakes, children laughing, osmanthus tree blooming, full moonlight, traditional Mid-Autumn festival, 16:9"},
+  {"title": false, "text": "长大后，我们离开了家，走向了远方，却把思念留在了原地", "image_prompt": "a young person walking away from a small Chinese village towards a distant city, leaving behind family home, emotional farewell, soft moonlight, 16:9"},
+  {"title": false, "text": "那些年，总觉得来日方长，却忘了时间从不等人", "image_prompt": "old faded photographs scattered on a wooden table, showing family memories, soft warm lighting, nostalgic atmosphere, Chinese family portraits, 16:9"},
+  {"title": false, "text": "如今，一条消息、一通电话，就能把思念送到千里之外", "image_prompt": "a modern smartphone screen showing a warm family video call, elderly parents smiling on screen, warm indoor lighting, emotional connection across distance, 16:9"},
+  {"title": false, "text": "无论走多远，抬头看见的，永远是同一轮月", "image_prompt": "multiple people in different locations all looking up at the same bright full moon, connected by moonlight, emotional unity, cinematic composition, 16:9"},
+  {"title": false, "text": "中秋快乐，愿你所念之人，也在念你", "image_prompt": "a beautiful silhouette of a happy Chinese family reunion under a giant full moon, warm golden glow, celebrating Mid-Autumn festival together, 16:9"}
+]
