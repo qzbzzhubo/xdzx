@@ -1,0 +1,22 @@
+{
+  "name": "scenery",
+  "gold": "#C9A86A",
+  "filter_family": [
+    "空灵",
+    "雾瓷",
+    "林间",
+    "山系",
+    "盐岚",
+    "空谷"
+  ],
+  "outro_title": "山水有相逢，下期见",
+  "outro_sub": "愿你也去看看世界",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "voice_role": "calm",
+  "sticker_keywords": [],
+  "highlight_keywords": [],
+  "highlight_color": "#FF3B30",
+  "caption_font": "",
+  "title_font": "",
+  "effect_mode": ""
+}
